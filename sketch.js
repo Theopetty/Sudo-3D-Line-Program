@@ -1,3 +1,4 @@
+
 let x=0;
 let y=0;
 let x2=0
@@ -28,6 +29,7 @@ if (key=='a'){}else{
 if (key=='s'){}else{
 if (key=='d'){}else{
 if (key==0){}else{
+  if (key=>4){c=0;}
 mode=key;if (key=='4'){c=1;}if (key=='6'){if (c==0){background(0,250,0);c=1;}}
 if (key=='7'){if (c==0){background(0,250,0);c=1;}}
 }}}}}}
