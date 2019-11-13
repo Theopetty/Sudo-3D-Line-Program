@@ -7,7 +7,7 @@ let mode=1;
 let lk=0;
 let p6o7=0;
 function setup(){
-createCanvas(1500,1500);
+createCanvas(1250,1250);
   background(0, 0, 0);
 }
 function draw(){
