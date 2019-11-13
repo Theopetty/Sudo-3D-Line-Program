@@ -7,8 +7,8 @@ let mode=1;
 let lk=0;
 let p6o7=0;
 function setup(){
-createCanvas(700,700);
-  background(0, 250, 0);
+createCanvas(1500,1500);
+  background(0, 0, 0);
 }
 function draw(){
 if (p6o7==0){background(0,250,0);p6o7=1;}
